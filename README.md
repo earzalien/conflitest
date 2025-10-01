@@ -1,2 +1,2 @@
 # conflitest
-blablabla
+local
